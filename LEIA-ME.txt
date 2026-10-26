@@ -1,0 +1,20 @@
+SITE - 58.960.653 Leonardo Fernandes Oliveira
+
+Arquivos:
+- index.html: página inicial
+- sobre.html: página Sobre
+- politica-privacidade.html: Política de Privacidade
+- termos-uso.html: Termos de Uso
+- styles.css: estilos personalizados
+- assets/: imagens enviadas pelo usuário
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Abra index.html no navegador. A conexão com a internet é necessária para carregar Bootstrap e ícones via CDN.
+
+Antes de publicar:
+- Confirme os dados cadastrais e o endereço.
+- Verifique se as fotos representam o estabelecimento/produtos de forma apropriada.
+- Ajuste a Política de Privacidade se adicionar Google Ads tags, Analytics, cookies, formulários, pixels ou outros serviços.
+- Os documentos legais são modelos iniciais, não aconselhamento jurídico.
+- O site não garante aprovação no Google Ads; confira as políticas e a página de destino no Google Ads antes de anunciar.
